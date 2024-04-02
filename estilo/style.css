@@ -10,6 +10,11 @@ body {
 
 }
 
+img.lado{
+    float: right
+}
+
+
 main {
 background-color: aliceblue;
 width: 500px;
